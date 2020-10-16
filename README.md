@@ -1,6 +1,6 @@
 # note-taker
 
-<h2> PWA Budget Tracker </h2> 
+<h2> Note Taker </h2> 
 
 <h2> Author </h2>
 
@@ -14,7 +14,7 @@ masterson.kendall@gmail.com
 
 This is a note taking application. You can write, save, and edit notes. Express is used to save and retrieve the notes. 
 
-**## Table of Contents**
+Table of Contents
 
 - [Installation Instructions](#installation-instructions)
 - [Usage Information](#usage-information)
@@ -30,6 +30,12 @@ You can install this program by cloning it to your local machine by running `git
 This application is deployed on Heroku and can be found here: https://note-taker-ke.herokuapp.com/
 
 
+<<<<<<< HEAD
 ![](./img/note-taker-1.png)
 
 ![](./img/note-taker-2.png)
+=======
+![](img/note-taker-1.png)
+
+![](img/note-taker-2.png)
+>>>>>>> c874c5eb9c1fe4c3db28a9516b9323f256a67a4f
