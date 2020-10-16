@@ -14,7 +14,7 @@ masterson.kendall@gmail.com
 
 This is a note taking application. You can write, save, and edit notes. Express is used to save and retrieve the notes. 
 
-**## Table of Contents**
+Table of Contents
 
 - [Installation Instructions](#installation-instructions)
 - [Usage Information](#usage-information)
