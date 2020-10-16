@@ -30,6 +30,6 @@ You can install this program by cloning it to your local machine by running `git
 This application is deployed on Heroku and can be found here: https://note-taker-ke.herokuapp.com/
 
 
-![](./img/note-taker-1)
+![](img/note-taker-1.png)
 
-![](./img/note-taker-2)
+![](img/note-taker-2.png)
