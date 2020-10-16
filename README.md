@@ -1,6 +1,6 @@
 # note-taker
 
-<h2> PWA Budget Tracker </h2> 
+<h2> Note Taker </h2> 
 
 <h2> Author </h2>
 
